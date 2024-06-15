@@ -5,3 +5,4 @@ huggingface_hub
 langchain_community
 langchain_huggingface
 langchain_groq
+upstash_redis
